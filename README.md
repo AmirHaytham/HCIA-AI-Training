@@ -1,1 +1,1 @@
-# HCIA-AI-Intern
+# HCIA-AI Sessions
