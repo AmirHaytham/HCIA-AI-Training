@@ -1,4 +1,4 @@
-# HCIA-AI Sessions
+# HCIA-AI Program (Huawei Training Program)
 
 This repository contains two main folders:
 -   **Source Codes** : Including CNN Based Experiment, CNN Test, CNN Trainning, Tensorflow Experiment and Tensorflow Linear Regression
